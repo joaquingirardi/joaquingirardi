@@ -2,8 +2,8 @@
 
 I’m **Joaquin Girardi**, Full Stack Web Developer from Cordoba, Argentina.💡
 
-Since I was young I have been passionate about Technology and development on different platforms,
-Teamwork with commitment, contribution and desire to improve every day.
+Since I was young, I have been passionate about Technology and development on different platforms.
+Teamwork with commitment, contribution and the desire to improve every day are some qualities that define me.
 
 :mailbox: Let's talk about technology development and opportunities, feel free to reach out at joacojoacog@gmail.com 📬
 
