@@ -7,6 +7,7 @@ Teamwork, contribution and desire to improve every day are some qualities that d
 
 :mailbox: Let's talk about technology development and opportunities, feel free to reach out at joacojoacog@gmail.com 📬
 
+- 📍[Portfolio](https://portfolio-girardi.vercel.app/)
 - 📍[Linkedin](https://www.linkedin.com/in/joaquingirardi/)
 - 📍[Instagram](https://www.instagram.com/joacogirardi/)
 
