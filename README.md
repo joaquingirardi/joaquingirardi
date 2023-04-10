@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m **Joaquin Girardi**, Full Stack Web Developer from Cordoba, Argentina.💡
+I’m **Joaquin Girardi**, FS software developer from Cordoba, Argentina.💡
 
 I am passionate about Technology and development on different platforms.                                                                                 
 Teamwork, contribution and desire to improve every day are some qualities that define me.
