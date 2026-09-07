@@ -1,13 +1,13 @@
-### Hi there!
+### Joaquin Girardi
+**Senior Full Stack Software Engineer**
 
-I’m **Joaquin Girardi**, a Full-Stack Software Developer specializing in TypeScript, React, and Node.js. I also hold AWS certifications, including Cloud Practitioner - Foundational.
+> Engineering fault-tolerant event-driven pipelines, AI document extraction workflows, and enterprise Web3/SaaS architectures.
 
+```go
+package main
 
-Let's talk about technology development and opportunities, feel free to reach out at contact@joaquingirardi.com
+import "fmt"
 
-- [Check out my website](https://joaquingirardi.com)
-- [Connect with me on Linkedin](https://www.linkedin.com/in/joaquingirardi)
-
-Explore my projects and contributions on GitLab and GitHub:
-
-- [Gitlab Profile](https://www.gitlab.com/joaquin.girardi)
+func main() {
+    fmt.Println("Primary Stack: Go | TypeScript | React | AWS | Vector DBs | NATS")
+}
